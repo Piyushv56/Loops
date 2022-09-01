@@ -1,3 +1,4 @@
+//Write a program to print table of any number input by user.//
 import java.util.Scanner; // scanner package imported
 
 public class Tab {
