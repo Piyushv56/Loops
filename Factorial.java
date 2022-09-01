@@ -1,3 +1,5 @@
+// Write a method th find factorial of a number input by user.factorial(int n).call this methos from main() and pass argument n factorial(int n).Repeat this untill user enters no//
+	
 import java.util.Scanner;
 
 public class Factorial {
