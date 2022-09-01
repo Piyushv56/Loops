@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class Factorial {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Taking input from user
 		Scanner sc = new Scanner(System.in);
  int number =sc.nextInt();
  int i=1;
  long factorial =1;
- while (i<= number) {
+ while (i<= number) { 
 	 factorial*=i;
 	 i++;
  }
